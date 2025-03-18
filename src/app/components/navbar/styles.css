@@ -1,0 +1,6 @@
+@media (max-width:640px) {
+    .logo{
+        position: relative;
+        top: -16px;
+    }
+}
